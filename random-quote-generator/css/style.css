@@ -1,0 +1,80 @@
+body
+{
+  background-color:white;
+  
+}
+
+.col
+{
+  background-color:black;
+  border-color:black;
+}
+
+h2
+{
+  font-family: got;
+  color:black;
+}
+
+h4
+{
+  font-family: got;
+  color:black;
+}
+
+
+@font-face {
+   font-family: got;
+   src: url(https://drive.google.com/open?id=0B77BSNHE5X0LVlM4ek5pdnVlZHM);
+}
+
+.quote-box
+{
+  margin-top:1%;
+  width:100%;
+  border-color:white;
+  
+}
+.quote
+{
+  background-color:whitesmoke;
+  border:1px solid white;
+  border-radius:3px;
+  padding:2%;
+  width:75%;
+  margin-top:-15%;
+  margin-bottom:5%;
+}
+.message
+{
+  font-family: got;
+  font-size: 120%;
+  color: black;
+  background-color: black;
+  padding: 5% 5% 3% 5%;
+  margin-left: 10%
+  max-width: 80%;
+
+}
+
+.image
+{
+  height:100%;
+  width:100%;
+}
+
+img
+{
+  height:100%;
+  width:100%;
+  border-radius:3px;
+}
+
+.top
+{
+  margin-top:-10px;
+}
+
+-- 
+Tommy Izen
+304-355-4141
